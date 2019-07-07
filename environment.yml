@@ -1,10 +1,27 @@
 name: ThinkDSP
 
+channels:
+- conda-forge
 dependencies:
-  - python=3.7
-  - jupyter
-  - numpy
-  - matplotlib
-  - seaborn
-  - pandas
-  - scipy
+- jupyterlab
+- nodejs
+- notebook
+- nbconvert
+- ipykernel
+- ipywidgets
+- widgetsnbextension
+- altair
+- bqplot
+- dask
+- matplotlib
+- pandas
+- python=3.7
+- scikit-image
+- scikit-learn
+- seaborn
+- tensorflow
+- sympy
+- pyyaml
+- traittypes
+- invoke
+- jupyterlab_launcher

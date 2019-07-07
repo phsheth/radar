@@ -1,7 +1,7 @@
 # Technology Radar Data
 
 [ThoughtWorks](https://www.thoughtworks.com/) has been publishing a
-[Technology Radar](https://www.thoughtworks.com/radar) since 2010.
+[Technology Radar](https://www.thoughtworks.com/radar) since 2010. </br>
 Run the code for this book on Binder: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/phsheth/radar)
 
 It classifies technology trends in techniques, platforms, tools and
